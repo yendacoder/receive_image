@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - receive_image (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - receive_image (from `.symlinks/plugins/receive_image/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  receive_image:
+    :path: ".symlinks/plugins/receive_image/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  receive_image: 764d8b24e8a6c124a1deac0e5162e99dddd67187
+
+PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
+
+COCOAPODS: 1.11.3
